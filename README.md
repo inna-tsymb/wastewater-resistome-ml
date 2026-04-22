@@ -48,7 +48,7 @@ make dashboard  # Main regional comparison tool
 make global     # Global fingerprint analysis
 ```
 
-##📂 Project Structure
+## 📂 Project Structure
 
 `data_preprocessing.py` - Matrix normalization and noise reduction.
 
@@ -66,7 +66,7 @@ make global     # Global fingerprint analysis
 
 `dashbord.py` & `global_markers.py` - Streamlit interactive web apps.
 
-##👩‍🔬 Author
+## 👩‍🔬 Author
 
 Inna Kucherova 
 
