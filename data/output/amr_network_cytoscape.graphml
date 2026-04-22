@@ -1,0 +1,687 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="ant(3'')-Ih-aac(6')-IId" />
+    <node id="blaOXA_clust20" />
+    <node id="mph(E)" />
+    <node id="msr(E)" />
+    <node id="aadA13" />
+    <node id="aadA4_aadA5" />
+    <node id="ant(6)-Ia" />
+    <node id="mef(A)_3_AF227521" />
+    <node id="msr(D)" />
+    <node id="tet(M)" />
+    <node id="aadE_1_KF421157" />
+    <node id="ant(6)-Ib" />
+    <node id="tet(44)" />
+    <node id="aph(3')-Ia_aph(3')-Ic" />
+    <node id="floR_clust" />
+    <node id="aph(3')-IIb" />
+    <node id="aac(3)-Id" />
+    <node id="blaACI-1" />
+    <node id="tet(O)" />
+    <node id="blaBEL" />
+    <node id="blaOXA_clust7" />
+    <node id="blaCARB_clust1" />
+    <node id="catB3" />
+    <node id="ere(A)_clust2" />
+    <node id="QnrVC_clust2" />
+    <node id="sul1_sul3_clust" />
+    <node id="tet(G)" />
+    <node id="aadA2" />
+    <node id="blaCMY-98" />
+    <node id="QnrB_clust2" />
+    <node id="blaCMY_blaBIL_blaLAT" />
+    <node id="oqxA" />
+    <node id="oqxB" />
+    <node id="blaCTX-M_clust2" />
+    <node id="blaMIR_clust" />
+    <node id="QnrVC_clust1" />
+    <node id="blaCTX-M_clust4" />
+    <node id="blaDHA_MOR" />
+    <node id="blaMOX_clust" />
+    <node id="dfrA14_clust" />
+    <node id="blaOXA-347" />
+    <node id="blaVEB_clust" />
+    <node id="erm(F)_clust" />
+    <node id="tet(36)" />
+    <node id="blaOXA-45" />
+    <node id="erm(40)" />
+    <node id="VanS-C_clust1" />
+    <node id="blaOXA_clust15" />
+    <node id="blaOXA_clust6" />
+    <node id="aadA7" />
+    <node id="blaOXA_clust17" />
+    <node id="optrA" />
+    <node id="blaOXA_clust8" />
+    <node id="strB" />
+    <node id="tet(39)" />
+    <node id="aac(3)-I_aac(3)-Ia" />
+    <node id="blaOXA_clust21" />
+    <node id="aadA_clust1" />
+    <node id="blaTEM_clust" />
+    <node id="tet(B)" />
+    <node id="cml_clust" />
+    <node id="mph(A)" />
+    <node id="tet(A)" />
+    <node id="cat(pC194)" />
+    <node id="str" />
+    <node id="sul2_clust" />
+    <node id="catQ" />
+    <node id="mef(B)" />
+    <node id="tet(32)" />
+    <node id="tetA(P)" />
+    <node id="cfxA_clust" />
+    <node id="tet(Q)" />
+    <node id="cfxA6" />
+    <node id="tet(40)" />
+    <node id="tet(W)" />
+    <node id="dfrA16_clust" />
+    <node id="tet(X)_clust" />
+    <node id="dfrA23" />
+    <node id="mecA_clust1" />
+    <node id="nimJ" />
+    <node id="tet(L)_1_HM235948" />
+    <node id="tet(C)" />
+    <node id="ere(B)" />
+    <node id="erm(A)_2_AF002716" />
+    <node id="lnu(B)" />
+    <node id="erm(B)_clust" />
+    <node id="strA" />
+    <node id="fosA_clust2" />
+    <node id="mef(A)_10_AF376746" />
+    <node id="lnu(C)" />
+    <node id="lnu(D)" />
+    <node id="tet(S)" />
+    <node id="aac(3)-II_clust" />
+    <node id="tet(41)" />
+    <node id="aac(6')-If" />
+    <node id="VanA-B_1_AF192329" />
+    <node id="VanX-B" />
+    <node id="VanH-A" />
+    <node id="VanW-B" />
+    <edge source="ant(3'')-Ih-aac(6')-IId" target="blaOXA_clust20">
+      <data key="d0">0.714</data>
+    </edge>
+    <edge source="ant(3'')-Ih-aac(6')-IId" target="mph(E)">
+      <data key="d0">0.704</data>
+    </edge>
+    <edge source="ant(3'')-Ih-aac(6')-IId" target="msr(E)">
+      <data key="d0">0.718</data>
+    </edge>
+    <edge source="ant(3'')-Ih-aac(6')-IId" target="aadA13">
+      <data key="d0">0.742</data>
+    </edge>
+    <edge source="ant(3'')-Ih-aac(6')-IId" target="aadA4_aadA5">
+      <data key="d0">0.784</data>
+    </edge>
+    <edge source="blaOXA_clust20" target="blaOXA_clust8">
+      <data key="d0">0.819</data>
+    </edge>
+    <edge source="blaOXA_clust20" target="mph(E)">
+      <data key="d0">0.734</data>
+    </edge>
+    <edge source="blaOXA_clust20" target="msr(E)">
+      <data key="d0">0.739</data>
+    </edge>
+    <edge source="blaOXA_clust20" target="strB">
+      <data key="d0">0.717</data>
+    </edge>
+    <edge source="blaOXA_clust20" target="tet(39)">
+      <data key="d0">0.917</data>
+    </edge>
+    <edge source="blaOXA_clust20" target="aac(3)-I_aac(3)-Ia">
+      <data key="d0">0.808</data>
+    </edge>
+    <edge source="mph(E)" target="msr(E)">
+      <data key="d0">0.993</data>
+    </edge>
+    <edge source="mph(E)" target="tet(39)">
+      <data key="d0">0.812</data>
+    </edge>
+    <edge source="mph(E)" target="aac(3)-I_aac(3)-Ia">
+      <data key="d0">0.805</data>
+    </edge>
+    <edge source="mph(E)" target="aadA13">
+      <data key="d0">0.712</data>
+    </edge>
+    <edge source="msr(E)" target="blaOXA_clust8">
+      <data key="d0">0.7</data>
+    </edge>
+    <edge source="msr(E)" target="tet(39)">
+      <data key="d0">0.793</data>
+    </edge>
+    <edge source="msr(E)" target="aac(3)-I_aac(3)-Ia">
+      <data key="d0">0.827</data>
+    </edge>
+    <edge source="msr(E)" target="aadA13">
+      <data key="d0">0.723</data>
+    </edge>
+    <edge source="aadA13" target="blaBEL">
+      <data key="d0">0.756</data>
+    </edge>
+    <edge source="ant(6)-Ia" target="mef(A)_3_AF227521">
+      <data key="d0">0.811</data>
+    </edge>
+    <edge source="ant(6)-Ia" target="msr(D)">
+      <data key="d0">0.738</data>
+    </edge>
+    <edge source="ant(6)-Ia" target="tet(M)">
+      <data key="d0">0.712</data>
+    </edge>
+    <edge source="ant(6)-Ia" target="aadE_1_KF421157">
+      <data key="d0">0.815</data>
+    </edge>
+    <edge source="mef(A)_3_AF227521" target="catQ">
+      <data key="d0">0.733</data>
+    </edge>
+    <edge source="mef(A)_3_AF227521" target="mef(A)_10_AF376746">
+      <data key="d0">0.895</data>
+    </edge>
+    <edge source="mef(A)_3_AF227521" target="msr(D)">
+      <data key="d0">0.929</data>
+    </edge>
+    <edge source="mef(A)_3_AF227521" target="tet(M)">
+      <data key="d0">0.753</data>
+    </edge>
+    <edge source="mef(A)_3_AF227521" target="tet(S)">
+      <data key="d0">0.746</data>
+    </edge>
+    <edge source="mef(A)_3_AF227521" target="aadE_1_KF421157">
+      <data key="d0">0.81</data>
+    </edge>
+    <edge source="msr(D)" target="mef(A)_10_AF376746">
+      <data key="d0">0.963</data>
+    </edge>
+    <edge source="msr(D)" target="tet(44)">
+      <data key="d0">0.738</data>
+    </edge>
+    <edge source="msr(D)" target="tet(M)">
+      <data key="d0">0.734</data>
+    </edge>
+    <edge source="msr(D)" target="tet(O)">
+      <data key="d0">0.718</data>
+    </edge>
+    <edge source="msr(D)" target="tet(S)">
+      <data key="d0">0.745</data>
+    </edge>
+    <edge source="msr(D)" target="tet(W)">
+      <data key="d0">0.71</data>
+    </edge>
+    <edge source="msr(D)" target="aadE_1_KF421157">
+      <data key="d0">0.767</data>
+    </edge>
+    <edge source="tet(M)" target="catQ">
+      <data key="d0">0.836</data>
+    </edge>
+    <edge source="tet(M)" target="tet(32)">
+      <data key="d0">0.778</data>
+    </edge>
+    <edge source="tet(M)" target="tet(44)">
+      <data key="d0">0.776</data>
+    </edge>
+    <edge source="tet(M)" target="tet(S)">
+      <data key="d0">0.717</data>
+    </edge>
+    <edge source="tet(M)" target="tet(W)">
+      <data key="d0">0.702</data>
+    </edge>
+    <edge source="tet(M)" target="tetA(P)">
+      <data key="d0">0.729</data>
+    </edge>
+    <edge source="tet(M)" target="aadE_1_KF421157">
+      <data key="d0">0.848</data>
+    </edge>
+    <edge source="aadE_1_KF421157" target="catQ">
+      <data key="d0">0.808</data>
+    </edge>
+    <edge source="aadE_1_KF421157" target="mef(A)_10_AF376746">
+      <data key="d0">0.709</data>
+    </edge>
+    <edge source="aadE_1_KF421157" target="tet(32)">
+      <data key="d0">0.707</data>
+    </edge>
+    <edge source="aadE_1_KF421157" target="tet(44)">
+      <data key="d0">0.746</data>
+    </edge>
+    <edge source="aadE_1_KF421157" target="tet(S)">
+      <data key="d0">0.722</data>
+    </edge>
+    <edge source="aadE_1_KF421157" target="tetA(P)">
+      <data key="d0">0.713</data>
+    </edge>
+    <edge source="ant(6)-Ib" target="tet(44)">
+      <data key="d0">0.853</data>
+    </edge>
+    <edge source="tet(44)" target="tet(32)">
+      <data key="d0">0.749</data>
+    </edge>
+    <edge source="tet(44)" target="tet(40)">
+      <data key="d0">0.714</data>
+    </edge>
+    <edge source="tet(44)" target="tet(W)">
+      <data key="d0">0.71</data>
+    </edge>
+    <edge source="aph(3')-Ia_aph(3')-Ic" target="floR_clust">
+      <data key="d0">0.744</data>
+    </edge>
+    <edge source="floR_clust" target="catB3">
+      <data key="d0">0.724</data>
+    </edge>
+    <edge source="floR_clust" target="strA">
+      <data key="d0">0.734</data>
+    </edge>
+    <edge source="floR_clust" target="strB">
+      <data key="d0">0.708</data>
+    </edge>
+    <edge source="floR_clust" target="sul1_sul3_clust">
+      <data key="d0">0.719</data>
+    </edge>
+    <edge source="floR_clust" target="sul2_clust">
+      <data key="d0">0.861</data>
+    </edge>
+    <edge source="floR_clust" target="aadA_clust1">
+      <data key="d0">0.702</data>
+    </edge>
+    <edge source="aph(3')-IIb" target="aac(3)-Id">
+      <data key="d0">0.827</data>
+    </edge>
+    <edge source="blaACI-1" target="tet(O)">
+      <data key="d0">0.71</data>
+    </edge>
+    <edge source="tet(O)" target="cfxA6">
+      <data key="d0">0.728</data>
+    </edge>
+    <edge source="tet(O)" target="tet(32)">
+      <data key="d0">0.885</data>
+    </edge>
+    <edge source="tet(O)" target="tet(40)">
+      <data key="d0">0.902</data>
+    </edge>
+    <edge source="tet(O)" target="tet(W)">
+      <data key="d0">0.954</data>
+    </edge>
+    <edge source="blaBEL" target="blaOXA_clust7">
+      <data key="d0">0.718</data>
+    </edge>
+    <edge source="blaOXA_clust7" target="aac(3)-I_aac(3)-Ia">
+      <data key="d0">0.702</data>
+    </edge>
+    <edge source="blaCARB_clust1" target="catB3">
+      <data key="d0">0.733</data>
+    </edge>
+    <edge source="blaCARB_clust1" target="ere(A)_clust2">
+      <data key="d0">0.788</data>
+    </edge>
+    <edge source="blaCARB_clust1" target="QnrVC_clust2">
+      <data key="d0">0.733</data>
+    </edge>
+    <edge source="blaCARB_clust1" target="sul1_sul3_clust">
+      <data key="d0">0.727</data>
+    </edge>
+    <edge source="blaCARB_clust1" target="tet(G)">
+      <data key="d0">0.781</data>
+    </edge>
+    <edge source="blaCARB_clust1" target="aadA2">
+      <data key="d0">0.803</data>
+    </edge>
+    <edge source="catB3" target="blaVEB_clust">
+      <data key="d0">0.754</data>
+    </edge>
+    <edge source="catB3" target="cml_clust">
+      <data key="d0">0.727</data>
+    </edge>
+    <edge source="catB3" target="ere(A)_clust2">
+      <data key="d0">0.73</data>
+    </edge>
+    <edge source="catB3" target="mph(A)">
+      <data key="d0">0.759</data>
+    </edge>
+    <edge source="catB3" target="sul1_sul3_clust">
+      <data key="d0">0.801</data>
+    </edge>
+    <edge source="catB3" target="sul2_clust">
+      <data key="d0">0.73</data>
+    </edge>
+    <edge source="catB3" target="tet(36)">
+      <data key="d0">0.776</data>
+    </edge>
+    <edge source="catB3" target="tet(A)">
+      <data key="d0">0.705</data>
+    </edge>
+    <edge source="catB3" target="aadA2">
+      <data key="d0">0.774</data>
+    </edge>
+    <edge source="ere(A)_clust2" target="blaCTX-M_clust2">
+      <data key="d0">0.721</data>
+    </edge>
+    <edge source="ere(A)_clust2" target="blaVEB_clust">
+      <data key="d0">0.794</data>
+    </edge>
+    <edge source="ere(A)_clust2" target="cml_clust">
+      <data key="d0">0.745</data>
+    </edge>
+    <edge source="ere(A)_clust2" target="mph(A)">
+      <data key="d0">0.725</data>
+    </edge>
+    <edge source="ere(A)_clust2" target="QnrVC_clust2">
+      <data key="d0">0.74</data>
+    </edge>
+    <edge source="ere(A)_clust2" target="sul1_sul3_clust">
+      <data key="d0">0.804</data>
+    </edge>
+    <edge source="ere(A)_clust2" target="tet(36)">
+      <data key="d0">0.728</data>
+    </edge>
+    <edge source="ere(A)_clust2" target="tet(A)">
+      <data key="d0">0.796</data>
+    </edge>
+    <edge source="ere(A)_clust2" target="tet(C)">
+      <data key="d0">0.743</data>
+    </edge>
+    <edge source="ere(A)_clust2" target="aadA_clust1">
+      <data key="d0">0.73</data>
+    </edge>
+    <edge source="ere(A)_clust2" target="aadA2">
+      <data key="d0">0.823</data>
+    </edge>
+    <edge source="QnrVC_clust2" target="blaVEB_clust">
+      <data key="d0">0.739</data>
+    </edge>
+    <edge source="QnrVC_clust2" target="cml_clust">
+      <data key="d0">0.734</data>
+    </edge>
+    <edge source="QnrVC_clust2" target="dfrA14_clust">
+      <data key="d0">0.709</data>
+    </edge>
+    <edge source="QnrVC_clust2" target="mph(A)">
+      <data key="d0">0.749</data>
+    </edge>
+    <edge source="QnrVC_clust2" target="sul1_sul3_clust">
+      <data key="d0">0.727</data>
+    </edge>
+    <edge source="QnrVC_clust2" target="aadA_clust1">
+      <data key="d0">0.736</data>
+    </edge>
+    <edge source="sul1_sul3_clust" target="blaOXA_clust21">
+      <data key="d0">0.702</data>
+    </edge>
+    <edge source="sul1_sul3_clust" target="blaVEB_clust">
+      <data key="d0">0.829</data>
+    </edge>
+    <edge source="sul1_sul3_clust" target="cml_clust">
+      <data key="d0">0.714</data>
+    </edge>
+    <edge source="sul1_sul3_clust" target="mph(A)">
+      <data key="d0">0.703</data>
+    </edge>
+    <edge source="sul1_sul3_clust" target="tet(36)">
+      <data key="d0">0.714</data>
+    </edge>
+    <edge source="sul1_sul3_clust" target="tet(A)">
+      <data key="d0">0.831</data>
+    </edge>
+    <edge source="sul1_sul3_clust" target="tet(C)">
+      <data key="d0">0.854</data>
+    </edge>
+    <edge source="sul1_sul3_clust" target="tet(X)_clust">
+      <data key="d0">0.748</data>
+    </edge>
+    <edge source="sul1_sul3_clust" target="aadA_clust1">
+      <data key="d0">0.804</data>
+    </edge>
+    <edge source="sul1_sul3_clust" target="aadA2">
+      <data key="d0">0.708</data>
+    </edge>
+    <edge source="tet(G)" target="aadA2">
+      <data key="d0">0.759</data>
+    </edge>
+    <edge source="aadA2" target="blaCTX-M_clust2">
+      <data key="d0">0.752</data>
+    </edge>
+    <edge source="aadA2" target="blaVEB_clust">
+      <data key="d0">0.701</data>
+    </edge>
+    <edge source="aadA2" target="cml_clust">
+      <data key="d0">0.761</data>
+    </edge>
+    <edge source="aadA2" target="aadA_clust1">
+      <data key="d0">0.769</data>
+    </edge>
+    <edge source="blaCMY-98" target="QnrB_clust2">
+      <data key="d0">0.741</data>
+    </edge>
+    <edge source="QnrB_clust2" target="blaCTX-M_clust4">
+      <data key="d0">0.826</data>
+    </edge>
+    <edge source="QnrB_clust2" target="blaDHA_MOR">
+      <data key="d0">0.719</data>
+    </edge>
+    <edge source="blaCMY_blaBIL_blaLAT" target="oqxA">
+      <data key="d0">0.74</data>
+    </edge>
+    <edge source="blaCMY_blaBIL_blaLAT" target="oqxB">
+      <data key="d0">0.743</data>
+    </edge>
+    <edge source="oqxA" target="fosA_clust2">
+      <data key="d0">0.748</data>
+    </edge>
+    <edge source="oqxA" target="oqxB">
+      <data key="d0">0.925</data>
+    </edge>
+    <edge source="oqxB" target="blaMIR_clust">
+      <data key="d0">0.701</data>
+    </edge>
+    <edge source="oqxB" target="fosA_clust2">
+      <data key="d0">0.798</data>
+    </edge>
+    <edge source="blaCTX-M_clust2" target="blaMIR_clust">
+      <data key="d0">0.741</data>
+    </edge>
+    <edge source="blaCTX-M_clust2" target="QnrVC_clust1">
+      <data key="d0">0.757</data>
+    </edge>
+    <edge source="QnrVC_clust1" target="ere(B)">
+      <data key="d0">0.705</data>
+    </edge>
+    <edge source="blaMOX_clust" target="dfrA14_clust">
+      <data key="d0">0.76</data>
+    </edge>
+    <edge source="dfrA14_clust" target="blaOXA-347">
+      <data key="d0">0.701</data>
+    </edge>
+    <edge source="dfrA14_clust" target="blaVEB_clust">
+      <data key="d0">0.717</data>
+    </edge>
+    <edge source="dfrA14_clust" target="cml_clust">
+      <data key="d0">0.738</data>
+    </edge>
+    <edge source="dfrA14_clust" target="mph(A)">
+      <data key="d0">0.797</data>
+    </edge>
+    <edge source="dfrA14_clust" target="tet(A)">
+      <data key="d0">0.729</data>
+    </edge>
+    <edge source="blaOXA-347" target="blaVEB_clust">
+      <data key="d0">0.744</data>
+    </edge>
+    <edge source="blaOXA-347" target="erm(F)_clust">
+      <data key="d0">0.728</data>
+    </edge>
+    <edge source="blaOXA-347" target="tet(36)">
+      <data key="d0">0.713</data>
+    </edge>
+    <edge source="blaVEB_clust" target="cml_clust">
+      <data key="d0">0.766</data>
+    </edge>
+    <edge source="blaVEB_clust" target="mph(A)">
+      <data key="d0">0.744</data>
+    </edge>
+    <edge source="blaVEB_clust" target="tet(36)">
+      <data key="d0">0.77</data>
+    </edge>
+    <edge source="blaVEB_clust" target="tet(A)">
+      <data key="d0">0.741</data>
+    </edge>
+    <edge source="erm(F)_clust" target="cfxA_clust">
+      <data key="d0">0.733</data>
+    </edge>
+    <edge source="tet(36)" target="mef(B)">
+      <data key="d0">0.737</data>
+    </edge>
+    <edge source="blaOXA-45" target="erm(40)">
+      <data key="d0">0.725</data>
+    </edge>
+    <edge source="blaOXA-45" target="VanS-C_clust1">
+      <data key="d0">0.725</data>
+    </edge>
+    <edge source="erm(40)" target="VanS-C_clust1">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="blaOXA_clust15" target="blaOXA_clust6">
+      <data key="d0">0.767</data>
+    </edge>
+    <edge source="blaOXA_clust15" target="aadA7">
+      <data key="d0">0.765</data>
+    </edge>
+    <edge source="blaOXA_clust17" target="optrA">
+      <data key="d0">0.706</data>
+    </edge>
+    <edge source="blaOXA_clust8" target="tet(39)">
+      <data key="d0">0.825</data>
+    </edge>
+    <edge source="blaOXA_clust8" target="aac(3)-I_aac(3)-Ia">
+      <data key="d0">0.82</data>
+    </edge>
+    <edge source="strB" target="strA">
+      <data key="d0">0.975</data>
+    </edge>
+    <edge source="strB" target="aac(3)-II_clust">
+      <data key="d0">0.794</data>
+    </edge>
+    <edge source="strB" target="aadA_clust1">
+      <data key="d0">0.712</data>
+    </edge>
+    <edge source="tet(39)" target="aac(3)-I_aac(3)-Ia">
+      <data key="d0">0.778</data>
+    </edge>
+    <edge source="blaOXA_clust21" target="aadA_clust1">
+      <data key="d0">0.771</data>
+    </edge>
+    <edge source="aadA_clust1" target="cml_clust">
+      <data key="d0">0.761</data>
+    </edge>
+    <edge source="aadA_clust1" target="strA">
+      <data key="d0">0.712</data>
+    </edge>
+    <edge source="aadA_clust1" target="tet(A)">
+      <data key="d0">0.727</data>
+    </edge>
+    <edge source="aadA_clust1" target="tet(C)">
+      <data key="d0">0.757</data>
+    </edge>
+    <edge source="aadA_clust1" target="tet(X)_clust">
+      <data key="d0">0.75</data>
+    </edge>
+    <edge source="blaTEM_clust" target="tet(B)">
+      <data key="d0">0.721</data>
+    </edge>
+    <edge source="cml_clust" target="mph(A)">
+      <data key="d0">0.86</data>
+    </edge>
+    <edge source="cml_clust" target="tet(A)">
+      <data key="d0">0.741</data>
+    </edge>
+    <edge source="mph(A)" target="tet(A)">
+      <data key="d0">0.734</data>
+    </edge>
+    <edge source="tet(A)" target="tet(C)">
+      <data key="d0">0.783</data>
+    </edge>
+    <edge source="cat(pC194)" target="str">
+      <data key="d0">0.714</data>
+    </edge>
+    <edge source="sul2_clust" target="strA">
+      <data key="d0">0.702</data>
+    </edge>
+    <edge source="catQ" target="mef(B)">
+      <data key="d0">0.727</data>
+    </edge>
+    <edge source="catQ" target="tet(32)">
+      <data key="d0">0.736</data>
+    </edge>
+    <edge source="catQ" target="tetA(P)">
+      <data key="d0">0.784</data>
+    </edge>
+    <edge source="mef(B)" target="lnu(D)">
+      <data key="d0">0.819</data>
+    </edge>
+    <edge source="tet(32)" target="lnu(C)">
+      <data key="d0">0.807</data>
+    </edge>
+    <edge source="tet(32)" target="tet(40)">
+      <data key="d0">0.78</data>
+    </edge>
+    <edge source="tet(32)" target="tet(W)">
+      <data key="d0">0.879</data>
+    </edge>
+    <edge source="cfxA_clust" target="tet(Q)">
+      <data key="d0">0.839</data>
+    </edge>
+    <edge source="tet(Q)" target="cfxA6">
+      <data key="d0">0.71</data>
+    </edge>
+    <edge source="cfxA6" target="tet(40)">
+      <data key="d0">0.755</data>
+    </edge>
+    <edge source="cfxA6" target="tet(W)">
+      <data key="d0">0.714</data>
+    </edge>
+    <edge source="tet(40)" target="tet(W)">
+      <data key="d0">0.886</data>
+    </edge>
+    <edge source="dfrA16_clust" target="tet(X)_clust">
+      <data key="d0">0.724</data>
+    </edge>
+    <edge source="dfrA23" target="mecA_clust1">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="dfrA23" target="nimJ">
+      <data key="d0">0.716</data>
+    </edge>
+    <edge source="dfrA23" target="tet(L)_1_HM235948">
+      <data key="d0">0.707</data>
+    </edge>
+    <edge source="mecA_clust1" target="nimJ">
+      <data key="d0">0.716</data>
+    </edge>
+    <edge source="mecA_clust1" target="tet(L)_1_HM235948">
+      <data key="d0">0.707</data>
+    </edge>
+    <edge source="erm(A)_2_AF002716" target="lnu(B)">
+      <data key="d0">0.826</data>
+    </edge>
+    <edge source="lnu(B)" target="erm(B)_clust">
+      <data key="d0">0.745</data>
+    </edge>
+    <edge source="lnu(B)" target="mef(A)_10_AF376746">
+      <data key="d0">0.717</data>
+    </edge>
+    <edge source="strA" target="aac(3)-II_clust">
+      <data key="d0">0.8</data>
+    </edge>
+    <edge source="tet(41)" target="aac(6')-If">
+      <data key="d0">0.827</data>
+    </edge>
+    <edge source="VanA-B_1_AF192329" target="VanX-B">
+      <data key="d0">0.877</data>
+    </edge>
+    <edge source="VanX-B" target="VanH-A">
+      <data key="d0">0.763</data>
+    </edge>
+    <edge source="VanX-B" target="VanW-B">
+      <data key="d0">0.75</data>
+    </edge>
+  </graph>
+</graphml>
