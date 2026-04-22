@@ -48,26 +48,30 @@ make dashboard  # Main regional comparison tool
 make global     # Global fingerprint analysis
 ```
 
-📂 Project Structure
-data_preprocessing.py - Matrix normalization and noise reduction.
+##📂 Project Structure
 
-build_network.py - Generates the Spearman correlation graph for mobile elements.
+`data_preprocessing.py` - Matrix normalization and noise reduction.
 
-epi_analysis.py - Calculates Pearson correlations with World Bank indices.
+`build_network.py` - Generates the Spearman correlation graph for mobile elements.
 
-ml_battle.py - ROC curve comparison (RF vs. SVM vs. XGBoost).
+`epi_analysis.py` - Calculates Pearson correlations with World Bank indices.
 
-train.py - Core Random Forest training and PCA visualization.
+`ml_battle.py` - ROC curve comparison (RF vs. SVM vs. XGBoost).
 
-shap_analysis.py - Game-theory-based feature importance extraction.
+`train.py` - Core Random Forest training and PCA visualization.
 
-validate_regions.py & plot_sankey.py - Zero-shot transfer testing.
+`shap_analysis.py` - Game-theory-based feature importance extraction.
 
-dashbord.py & global_markers.py - Streamlit interactive web apps.
+`validate_regions.py` & `plot_sankey.py` - Zero-shot transfer testing.
 
-👩‍🔬 Author
+`dashbord.py` & `global_markers.py` - Streamlit interactive web apps.
+
+##👩‍🔬 Author
+
 Inna Kucherova 
+
 Molecular biologist
+
 Bioinformatics Researcher & Data Scientist
 
 LinkedIn: https://www.linkedin.com/in/i-tsymbaliuk/
