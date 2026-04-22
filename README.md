@@ -68,10 +68,10 @@ make global     # Global fingerprint analysis
 
 ## 👩‍🔬 Author
 
-Inna Kucherova 
+**Inna Kucherova**
 
-Molecular biologist
+- Molecular biologist
 
-Bioinformatics Researcher & Data Scientist
+- Bioinformatics Researcher & Data Scientist
 
-LinkedIn: https://www.linkedin.com/in/i-tsymbaliuk/
+- LinkedIn: https://www.linkedin.com/in/i-tsymbaliuk/
